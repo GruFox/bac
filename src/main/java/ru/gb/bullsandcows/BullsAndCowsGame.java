@@ -6,7 +6,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-
+//Повторил код за преподавателем, старался по возможности хоть что-то понять
 public class BullsAndCowsGame extends Application {
     @Override
     public void start(Stage stage) throws IOException {
